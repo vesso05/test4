@@ -135,25 +135,6 @@ public class IO {
     public static void main(String[] args) throws IOException {
 
 
-     //   IO test = new IO();
-
-        //test.readAndWriteToFile("file.txt");
-
-       //   test.readAndReverse("filename.txt");
-
-
-       //  test.writeToFile();
-     //   test.writetoFile("file.txt");
-
-
-//        try {
- //           test.readAndReverse("file.txt");
-
-
- //       } catch (IOException e) {
-        //    e.printStackTrace();
-
-      //  }
     }
 
 }

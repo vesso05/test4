@@ -49,11 +49,6 @@ public class LimitedArray {
         myList.remove(myList.size() -1 );
     }
 
-    /**
-     *
-     *
-     * Prints all elements of the list
-     */
 
     public void printAllElements()
     {
