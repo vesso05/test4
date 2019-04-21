@@ -75,19 +75,6 @@ public class Tree {
 
 
 
-     //   Tree check = new Tree();
-
-     //   check.add(3);
-    //    check.add(7);
-    //    check.add(9);
-    //    check.add(4);
-     //   check.add(3);
-
-
-
-     //   check.printElements(check.root);
-
-
     }
 
 

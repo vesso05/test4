@@ -1,7 +1,3 @@
-// part of 2. Objects in Java
-
-
-
 public class HeterogeneousTree {
 
     HNode root;
@@ -43,24 +39,6 @@ public class HeterogeneousTree {
 
 
     public static void main(String[] args) {
-
-
-        // System.out.print(root);
-     //   String a = new String("hello");
-      //  String b = new String("bye");
-     //   Integer c = new Integer(7);
-
-     //   HNode obj_a = new HNode(a,6);
-     //   HNode obj_b = new HNode(b,3);
-     //   HNode obj_c = new HNode(c,9);
-
-   //     HeterogeneousTree main = new HeterogeneousTree();
-
-    //    main.add(obj_a);
-    //    main.add(obj_b);
-     //   main.add(obj_c);
-
-      //  System.out.print(main.root.reference);
 
 
     }
