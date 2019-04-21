@@ -49,11 +49,6 @@ public class DataClass {
 
     }
 
-    public static void main(String[] args) {
-
-
-
-    }
 }
 class Employee implements java.io.Serializable {
     public String name;

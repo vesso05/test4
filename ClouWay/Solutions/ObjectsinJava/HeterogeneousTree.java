@@ -32,16 +32,8 @@ public class HeterogeneousTree {
             }
         }
 
-
-
     }
 
-
-
-    public static void main(String[] args) {
-
-
-    }
 
 }
 class HNode {

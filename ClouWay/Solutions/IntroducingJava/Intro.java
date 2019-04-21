@@ -212,23 +212,4 @@ public class Intro {
     }
 
 
-    static public void main(String[] args)
-    {
-
-      //  int a = 252;
-     //   int b = 105;
-    //     int[] array = {9, 6, 5, 0, 8, 2, 4, 7};
-    //int[] array = {24,2,45,20,56,75,2,56,99,12,3,1,101,555};
-     //  int lenght = array.length-1;
-     // quickSort(array, 0, lenght);
-      //     sortArray(array);
-     //   for(int i:array){
-      //      System.out.print(i);
-       //     System.out.print(" ");
-
-
-
-         }
-
-
 }

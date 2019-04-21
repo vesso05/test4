@@ -4,7 +4,6 @@ public class Tree {
 
     Node root;
 
-
     /**
      * Adds the elements to the tree
      * @param current
@@ -71,14 +70,6 @@ public class Tree {
                 : containsInNode(current.right, value);
     }
 
-    public static void main(String[] args) {
-
-
-
-    }
-
-
-
 
 }
 
@@ -93,8 +84,4 @@ class Node {
         left = null;
     }
 }
-
-
-
-
 
