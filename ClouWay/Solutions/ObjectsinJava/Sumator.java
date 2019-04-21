@@ -35,5 +35,10 @@ public class Sumator {
     }
 
 
+    public TestMethod sum(String a, String b)
+    {
+
+        return a+b/0;
+    }
 
 }
