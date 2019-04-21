@@ -6,29 +6,29 @@ public class Sumator {
 
 
 
-  public static Integer sum(Integer a, Integer b)
+  public Integer sum(Integer a, Integer b)
   {
 
       return a+b;
   }
 
-    public static Double sum(Double a, Double b)
+    public Double sum(Double a, Double b)
     {
 
         return a+b;
     }
-    public static String sum(String a, String b)
+    public String sum(String a, String b)
     {
 
         return a+b;
     }
-    public static BigInteger sum(BigInteger a, BigInteger b)
+    public BigInteger sum(BigInteger a, BigInteger b)
     {
 
         return a.add(b);
 
     }
-    public static BigDecimal sum(BigDecimal a, BigDecimal b)
+    public BigDecimal sum(BigDecimal a, BigDecimal b)
     {
 
         return a.add(b);
